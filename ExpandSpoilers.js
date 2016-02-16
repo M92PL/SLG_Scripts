@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ExpandSpoilers
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Fuck #GMLL, Fuck P*****M
 // @author       Miechu
 // @match        http://slizg.eu/*
