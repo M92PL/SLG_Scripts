@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ExpandSpoilers
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/M92PL/
 // @version      0.2
 // @description  Fuck #GMLL, Fuck P*****M
 // @author       Miechu
