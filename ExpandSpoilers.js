@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         ExpandSpoilers
-// @namespace    https://github.com/M92PL/
-// @version      0.2
-// @description  Fuck #GMLL, Fuck P*****M
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Fuck #GMLL, Fuck Problem
 // @author       Miechu
 // @match        http://slizg.eu/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-latest.js
+// @downloadURL https://github.com/M92PL/SLG_Scripts/blob/master/ExpandSpoilers.js
+// @updateURL https://github.com/M92PL/SLG_Scripts/blob/master/ExpandSpoilers.js
 // ==/UserScript==
 
 
